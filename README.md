@@ -6,5 +6,6 @@ This is a Python Software to store **credentials**.
   - kivy/kivyMD (for GUI)
 #### Features
 - Stores site/comment,username,password 
+  - It will also try to download site icon if the site is valid.
 - Shows stored wifi passwords on system
 - Generate Strong Passwords
