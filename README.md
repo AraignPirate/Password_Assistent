@@ -1,4 +1,4 @@
-# Password Assistent
+<img src="" alt="Password Assistent Icon"></img>
 #### About
 This is a Python Software to store **credentials**.
 - Python project build with
