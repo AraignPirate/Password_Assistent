@@ -1,4 +1,4 @@
-<img align="center" style="height:70px;width:70px" src="https://github.com/AraignPirate/Password_Assistent/blob/main/Appfiles/Icon.png" alt="Password Assistent Icon"></img>
+<img align="center" style="height:70px;width:70px;margin-left:auto;margin-right:auto;" src="https://github.com/AraignPirate/Password_Assistent/blob/main/Appfiles/Icon.png" alt="Password Assistent Icon"></img>
 #### About
 This is a Python Software to store **credentials**.
 - Python project build with
