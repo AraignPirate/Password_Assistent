@@ -1,4 +1,5 @@
-<div style="text-align:center;width:100%"><img align="center" style="height:70px;width:70px;" src="https://github.com/AraignPirate/Password_Assistent/blob/main/Appfiles/Icon.png" alt="Password Assistent Icon"/></div>. 
+<div align="center"><img  style="height:70px;width:70px;" src="https://github.com/AraignPirate/Password_Assistent/blob/main/Appfiles/Icon.png" alt="Password Assistent Icon"/></div>
+<h1 align="center">Password Assistent</h1>
 
 #### About
 This is a Python Software to store **credentials**.
