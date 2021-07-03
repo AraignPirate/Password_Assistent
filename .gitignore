@@ -1,0 +1,6 @@
+Modules/__pycache__
+settings/__pycache__
+*.txt
+*.log
+Logo
+*.db
