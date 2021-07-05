@@ -13,5 +13,3 @@ This is a Python Software to store **credentials**.
 - Generate Strong Passwords
 
 #### Demo
-
-![Demo Video](https://github.com/AraignPirate/Password_Assistent/blob/main/Demo/Video_demo.mp4)
