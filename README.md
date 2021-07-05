@@ -13,6 +13,9 @@ All Credentials are encrypted with a unique key for each.
 
 See all wifi Credentials stored on your system.
 
+**TESTED ON** : Linux (Debian) , Windows 10
+**DEVELOPED ON** : kali Linux 
+
 ## Features
 - Stores site/comment,username,password 
   - It will also try to download site icon if the site is valid.
