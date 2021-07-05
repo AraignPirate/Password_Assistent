@@ -14,4 +14,4 @@ This is a Python Software to store **credentials**.
 
 #### Demo
 
-![][https://github.com/AraignPirate/Password_Assistent/blob/main/Demo/Video_demo.mp4]
+![Demo Video](https://github.com/AraignPirate/Password_Assistent/blob/main/Demo/Video_demo.mp4)
