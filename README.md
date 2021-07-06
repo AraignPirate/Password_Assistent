@@ -11,3 +11,5 @@ This is a Python Software to store **credentials**.
   - It will also try to download site icon if the site is valid.
 - Shows stored wifi passwords on system
 - Generate Strong Passwords
+
+#### Demo
